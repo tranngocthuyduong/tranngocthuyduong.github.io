@@ -539,7 +539,7 @@ color:#ff4b38; }
 			line-height: 37px;}
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
-	.vuong {width: 40px; height: 50px; margin: -5px 5px 10px 5px;border-radius: 5px!important;}
+	.vuong {width: 40px; height: 40px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
 				left: 23px!important;
@@ -567,7 +567,7 @@ color:#ff4b38; }
 		height: 0.1px!important;
 		left: -12px!important;
 		top: -31px!important;}
-	.text1 {font-size: 0.15em;
+	.text1 {font-size: 0.17em;
 			top: -40px!important; line-height: 2px!important;
 			left: -7px!important; }
 	.Top {height: 300px; padding: 15px 0px!important;}
@@ -585,8 +585,8 @@ color:#ff4b38; }
 	.phinh {width: 100%;}
 	.p1 {position: relative; top: -90px;
 		height: 20px; width: 65px;
-		font-size: 0.4rem!important;}
-	#Skills {height: 230px!important;position: relative;top: 0px;}
+		font-size: 0.45rem!important;}
+	#Skills {height: 230px!important;position: relative;top: 0px!important;}
 	.S1 {position: relative; top: 0px; height: 230px;}
 	.texts {font-size: 2.5rem; padding: 15px 0px!important;}
 	.vuongs2 {height: 110px; width: 70px; border-radius: 20px; margin: 10px;}
@@ -599,7 +599,7 @@ color:#ff4b38; }
 	.hinhs2 {width: 78%; position:  relative; top: -37px;left: -23px;}
 	.textvuong2 {font-size: 1.6rem; position: relative; top: -61px; left: -37px;}
 	.textvuong5 {font-size: 1.6rem; position: relative; top: -61px; left: -34px;}
-	#Contact {height: 650px!important;top: 0px;}
+	#Contact {height: 650px!important;top: 0px!important;}
 	.C1 {position: relative; top: 0px; height: 650px;}
 	.C2 {font-size: 2.5rem; top: 0px;}
 	.fa-envelope {font-size: 25px!important; position: relative; top: -20px; left: -10px;}
