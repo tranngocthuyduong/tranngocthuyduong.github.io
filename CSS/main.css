@@ -516,5 +516,108 @@ color:#ff4b38; }
 	.foo {height: 50px; top: -50px;}
 }
 
+@media screen and (min-width: 375px) and (max-width:415px)
+{ .navbar-menu li a {font-size: 0.6rem;}
+	.navbar-menu li {float: left;
+					padding: 0px 0px 0px 20px ;
+					top: -60px;
+					position: relative;}
+	.logo img {width: 50%;}
+	.navbar {height: 50px;}
 
+	.Big {height: 250px;}
+	.Header {height: 250px;}
+	.El {font-size: 2rem;}
+	.element {font-size: 1rem;}
+	.Hello {padding: 0px;
+			top: -40px;}
+	.text-right {padding: 0px;
+				position: relative;
+				top: -60px;}
+	#About {height: 300px!important; }
+	.Top1 {height: 145px;}
+	.Text {font-size: 2.5rem;
+			line-height: 37px;}
+	.vuongdo {width: 100%;
+				top: -10px; left: 2px;}
+	.vuong {width: 40px; height: 50px; margin: -5px 5px 10px 5px;border-radius: 5px!important;}
+	.fa-desktop {font-size: 10px!important;
+				position: relative;
+				left: 23px!important;
+				top: -5px!important;}
+	.fa-camera {font-size: 10px!important;
+				position: relative;
+				left: 23px!important;
+				top: -5px!important;}
+
+	.fa-pencil-square-o {font-size: 10px!important;
+				position: relative;
+				left: 23px!important;
+				top: -5px!important;}
+	.fa-briefcase {font-size: 10px!important;
+				position: relative;
+				left: 23px!important;
+				top: -5px!important;}
+
+	.text {font-size: 0.2rem;
+			line-height: 3.5px!important;
+			position: relative;
+			top: -17px!important;
+			left: 3px!important;}
+	hr {width: 5px;
+		height: 0.1px!important;
+		left: -12px!important;
+		top: -31px!important;}
+	.text1 {font-size: 0.18em;
+			top: -40px!important; line-height: 3px!important;
+			left: -7px!important; }
+	.Top {height: 300px; padding: 15px 0px!important;}
+	.Top2 {height: 200px;}
+	
+	.Big2 {height: 300px;}
+	.vuong2 {width: 100%;}
+	.text2 {font-size: 5rem;
+			top: 135px!important;
+			line-height: 65px;}
+	#Portfolio {height: 420px!important; }
+	.P1 {height: 420px;}
+	.ptext {font-size: 2.5rem;}
+	.P3 {position: relative; top: -65px;}
+	.phinh {width: 100%;}
+	.p1 {position: relative; top: -100px;
+		height: 20px; width: 65px;
+		font-size: 0.48rem;}
+	#Skills {height: 270px!important; top: 1040px;}
+	.S1 {position: relative; top: -1030px; height: 270px;}
+	.texts {font-size: 2.5rem; padding: 15px 0px!important;}
+	.vuongs2 {height: 110px; width: 70px; border-radius: 20px; margin: 10px;}
+	.textvuong {font-size: 1.6rem; position: relative; top: -03px; left: -44px;}
+	.vuongs2 hr {width: 35px!important; position: relative; left: -85px!important;top: -28px!important;}
+	.textvuong3 {font-size: 1.6rem; position: relative; top: -03px; left: -43px;}
+	.textvuong4 {font-size: 1.6rem; position: relative; top: -03px; left: -37px;}
+	.hinhs {width: 78%; position:  relative; top: -37px;left: -18px;}
+	.hinhs1 {width: 78%; position:  relative; top: -37px;left: -21px;}
+	.hinhs2 {width: 78%; position:  relative; top: -37px;left: -23px;}
+	.textvuong2 {font-size: 1.6rem; position: relative; top: -61px; left: -37px;}
+	.textvuong5 {font-size: 1.6rem; position: relative; top: -61px; left: -34px;}
+	#Contact {height: 650px!important;top: 1400px;}
+	.C1 {position: relative; top: -1400px; height: 650px;}
+	.C2 {font-size: 2.5rem;}
+	.fa-envelope {font-size: 25px!important; position: relative; top: -20px; left: -10px;}
+	.fa-phone {font-size: 25px!important; position: relative; top: -15px; left: -8px;}
+	.ctext {font-size: 1rem; position: relative; top: -15px;}
+	.C3 {font-size: 1.5rem;position: relative; top: -20px;}
+	.hinhc {width: 30%; top: 30px; left: -150px; z-index: 10!important;}
+	input {position: relative; top: -20px;z-index: 5!important;}
+	.hinhc1 {width: 60%; top: -120px; left: 190px; z-index: 10!important;}
+	.b2 {position: relative; top: -200px; width: 50px; height: 20px; font-size: 0.6rem;left: 0px;}
+	.circle {height: 20px; width: 20px;}
+	.fa-facebook-f {font-size: 11px!important; position: relative; top: -9.5px;left: -15px;}
+	.fa-behance {font-size: 11px!important; position: relative; top: -10px;left: 1px;}
+	.fa-instagram {font-size: 11px!important; position: relative; top: -9px;}
+	.fa-pinterest-p {font-size: 11px!important; position: relative; top: -8.5px;}
+	.foo1 {font-size: 0.5rem; position: relative; left: 15px;top: 10px;}
+	footer {height: 50px!important;}
+	.foo {height: 50px; top: -50px;}
+}
 
