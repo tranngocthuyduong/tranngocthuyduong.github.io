@@ -140,7 +140,7 @@ height: 1px!important;}
 .text1
 {font-size: 0.7rem;
 position: relative;
-margin: 0px 10px;
+left: 10px;
 top: -26px;
 font-family: regu;}
 .fa-pencil-square-o
@@ -436,6 +436,10 @@ color:#ff4b38; }
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
 	.vuong {width: 42px; height: 42px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
+				.vuong:hover
+	{-webkit-box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);
+	-moz-box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);
+		box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
 				left: 27px!important;
@@ -542,6 +546,10 @@ color:#ff4b38; }
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
 	.vuong {width: 42px; height: 42px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
+		.vuong:hover
+	{-webkit-box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);
+	-moz-box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);
+		box-shadow: -2px 2px 5px 1px rgba(204,204,204,0.5);}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
 				left: 27px!important;
