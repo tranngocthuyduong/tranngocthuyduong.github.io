@@ -140,7 +140,7 @@ height: 1px!important;}
 .text1
 {font-size: 0.7rem;
 position: relative;
-padding: 0px 10px;
+margin: 0px 10px;
 top: -26px;
 font-family: regu;}
 .fa-pencil-square-o
@@ -411,7 +411,7 @@ font-family: regu;
 color:#ff4b38; }
 
 
-@media screen and (min-width: 415px) and (max-width:576px)
+@media screen and (min-width: 375px) and (max-width:415px)
 { .navbar-menu li a {font-size: 0.45rem!important;}
 	.navbar-menu li {float: right;
 					margin:  -2px -18px ;
@@ -435,27 +435,27 @@ color:#ff4b38; }
 			line-height: 37px;}
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
-	.vuong {width: 40px; height: 40px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
+	.vuong {width: 42px; height: 42px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 	.fa-camera {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 
 	.fa-pencil-square-o {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 	.fa-briefcase {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 
-	.text {font-size: 0.2rem;
-			line-height: 3.5px!important;
+	.text {font-size: 0.25rem;
+			line-height: 4.5px!important;
 			position: relative;
 			top: -17px!important;
 			left: 3px!important;}
@@ -463,9 +463,9 @@ color:#ff4b38; }
 		height: 0.1px!important;
 		left: -12px!important;
 		top: -31px!important;}
-	.text1 {font-size: 0.15em;
-			top: -38px!important; line-height: 3px!important;
-			left: -7px!important; }
+	.text1 {font-size: 0.155rem; padding: 0px!important; margin: 0px;
+			top: -38px!important; line-height: 4px!important;
+			left: 03px!important; }
 	.Top {height: 300px; padding: 15px 0px!important;}
 	.Top2 {height: 200px;}
 	
@@ -541,27 +541,27 @@ color:#ff4b38; }
 			line-height: 37px;}
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
-	.vuong {width: 40px; height: 40px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
+	.vuong {width: 42px; height: 42px; margin: -5px 5px 15px 5px;border-radius: 5px!important;border: 0.2px #ff4b38 solid!important;}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 	.fa-camera {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 
 	.fa-pencil-square-o {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 	.fa-briefcase {font-size: 10px!important;
 				position: relative;
-				left: 23px!important;
+				left: 27px!important;
 				top: -5px!important;}
 
-	.text {font-size: 0.2rem;
-			line-height: 3.5px!important;
+	.text {font-size: 0.25rem;
+			line-height: 4.5px!important;
 			position: relative;
 			top: -17px!important;
 			left: 3px!important;}
@@ -569,9 +569,9 @@ color:#ff4b38; }
 		height: 0.1px!important;
 		left: -12px!important;
 		top: -31px!important;}
-	.text1 {font-size: 0.15em;
-			top: -38px!important; line-height: 3px!important;
-			left: -7px!important; }
+	.text1 {font-size: 0.155rem; padding: 0px!important; margin: 0px;
+			top: -38px!important; line-height: 4px!important;
+			left: 03px!important; }
 	.Top {height: 300px; padding: 15px 0px!important;}
 	.Top2 {height: 200px;}
 	
@@ -602,7 +602,7 @@ color:#ff4b38; }
 	.textvuong2 {font-size: 1.6rem; position: relative; top: -61px; left: -37px;}
 	.textvuong5 {font-size: 1.6rem; position: relative; top: -61px; left: -34px;}
 	#Contact {height: 650px!important;top: 0px!important;}
-	.C1 {position: relative; top: 0px; height: 650px;}
+	.C1 {position: relative; top: 0px!important; height: 650px;}
 	.C2 {font-size: 2.5rem; top: 0px;}
 	.fa-envelope {font-size: 25px!important; position: relative; top: -20px; left: -10px;}
 	.fa-phone {font-size: 25px!important; position: relative; top: -15px; left: -8px;}
