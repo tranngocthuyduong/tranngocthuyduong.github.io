@@ -412,10 +412,9 @@ color:#ff4b38; }
 
 
 @media screen and (min-width: 414px) and (max-width:540px)
-{ .navbar-menu li a {font-size: 0.6rem;}
+{ .navbar-menu li a {font-size: 0.5rem!important;top: -50px!important;}
 	.navbar-menu li {float: left;
-					padding: 0px 0px 0px 20px ;
-					top: -60px;
+					
 					position: relative;}
 	.logo img {width: 50%;}
 	.navbar {height: 50px;}
@@ -435,7 +434,7 @@ color:#ff4b38; }
 			line-height: 37px;}
 	.vuongdo {width: 100%;
 				top: -10px; left: 2px;}
-	.vuong {width: 40px; height: 50px; margin: -5px 5px 10px 5px;border-radius: 5px!important;}
+	.vuong {width: 40px; height: 50px; margin: -5px 5px 10px 5px;border-radius: 5px!important; border: 1px!important;}
 	.fa-desktop {font-size: 10px!important;
 				position: relative;
 				left: 23px!important;
@@ -517,9 +516,9 @@ color:#ff4b38; }
 }
 
 @media screen and (min-width: 375px) and (max-width:415px)
-{ .navbar-menu li a {font-size: 0.6rem;}
-	.navbar-menu li {float: left;
-					padding: 0px 0px 0px 20px ;
+{ .navbar-menu li a {font-size: 0.45rem!important;}
+	.navbar-menu li {float: right;
+					margin:  -2px -18px ;
 					top: -60px;
 					position: relative;}
 	.logo img {width: 50%;}
@@ -568,8 +567,8 @@ color:#ff4b38; }
 		height: 0.1px!important;
 		left: -12px!important;
 		top: -31px!important;}
-	.text1 {font-size: 0.18em;
-			top: -40px!important; line-height: 3px!important;
+	.text1 {font-size: 0.15em;
+			top: -40px!important; line-height: 2px!important;
 			left: -7px!important; }
 	.Top {height: 300px; padding: 15px 0px!important;}
 	.Top2 {height: 200px;}
@@ -579,16 +578,16 @@ color:#ff4b38; }
 	.text2 {font-size: 5rem;
 			top: 135px!important;
 			line-height: 65px;}
-	#Portfolio {height: 420px!important; }
-	.P1 {height: 420px;}
-	.ptext {font-size: 2.5rem;}
+	#Portfolio {height: 390px!important; }
+	.P1 {height: 390px; top: -30px;}
+	.ptext {font-size: 2.5rem; top: -10px!important;}
 	.P3 {position: relative; top: -65px;}
 	.phinh {width: 100%;}
-	.p1 {position: relative; top: -100px;
+	.p1 {position: relative; top: -90px;
 		height: 20px; width: 65px;
-		font-size: 0.48rem;}
-	#Skills {height: 270px!important; top: 1040px;}
-	.S1 {position: relative; top: -1030px; height: 270px;}
+		font-size: 0.4rem!important;}
+	#Skills {height: 230px!important;position: relative;top: 0px;}
+	.S1 {position: relative; top: 0px; height: 230px;}
 	.texts {font-size: 2.5rem; padding: 15px 0px!important;}
 	.vuongs2 {height: 110px; width: 70px; border-radius: 20px; margin: 10px;}
 	.textvuong {font-size: 1.6rem; position: relative; top: -03px; left: -44px;}
@@ -600,9 +599,9 @@ color:#ff4b38; }
 	.hinhs2 {width: 78%; position:  relative; top: -37px;left: -23px;}
 	.textvuong2 {font-size: 1.6rem; position: relative; top: -61px; left: -37px;}
 	.textvuong5 {font-size: 1.6rem; position: relative; top: -61px; left: -34px;}
-	#Contact {height: 650px!important;top: 1400px;}
-	.C1 {position: relative; top: -1400px; height: 650px;}
-	.C2 {font-size: 2.5rem;}
+	#Contact {height: 650px!important;top: 0px;}
+	.C1 {position: relative; top: 0px; height: 650px;}
+	.C2 {font-size: 2.5rem; top: 0px;}
 	.fa-envelope {font-size: 25px!important; position: relative; top: -20px; left: -10px;}
 	.fa-phone {font-size: 25px!important; position: relative; top: -15px; left: -8px;}
 	.ctext {font-size: 1rem; position: relative; top: -15px;}
@@ -610,7 +609,7 @@ color:#ff4b38; }
 	.hinhc {width: 30%; top: 30px; left: -150px; z-index: 10!important;}
 	input {position: relative; top: -20px;z-index: 5!important;}
 	.hinhc1 {width: 60%; top: -120px; left: 190px; z-index: 10!important;}
-	.b2 {position: relative; top: -200px; width: 50px; height: 20px; font-size: 0.6rem;left: 0px;}
+	.b2 {position: relative; top: -190px; width: 50px; height: 20px; font-size: 0.6rem;left: 0px;}
 	.circle {height: 20px; width: 20px;}
 	.fa-facebook-f {font-size: 11px!important; position: relative; top: -9.5px;left: -15px;}
 	.fa-behance {font-size: 11px!important; position: relative; top: -10px;left: 1px;}
